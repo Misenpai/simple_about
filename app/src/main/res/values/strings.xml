@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Sumit Sinha</string>
+    <string name="yellow_star">Yellow_Star</string>
+    <string name="bio">Hello my name is Sumit Sinha
+    \n\nI am from Assam,Silchar
+    \n\nI love watching Anime and reading Mangas
+    \nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo. Pharetra convallis posuere morbi leo urna molestie at elementum. Felis imperdiet proin fermentum leo vel orci. Vitae congue eu consequat ac felis donec et odio. Aenean sed adipiscing diam donec adipiscing tristique risus nec. Eu turpis egestas pretium aenean pharetra. Leo vel orci porta non pulvinar neque laoreet suspendisse. Varius sit amet mattis vulputate enim nulla. Duis ultricies lacus sed turpis tincidunt. Nibh sed pulvinar proin gravida hendrerit lectus. Ultrices in iaculis nunc sed. Sed risus ultricies tristique nulla aliquet enim tortor at. Et magnis dis parturient montes nascetur ridiculus mus mauris. Tellus elementum sagittis vitae et leo duis ut diam. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. Adipiscing tristique risus nec feugiat in fermentum posuere urna. Enim eu turpis egestas pretium aenean pharetra magna.
+
+Purus ut faucibus pulvinar elementum. Pellentesque sit amet porttitor eget dolor morbi non arcu. Est ultricies integer quis auctor elit sed vulputate. Nisl nunc mi ipsum faucibus vitae. Amet cursus sit amet dictum. Iaculis nunc sed augue lacus viverra vitae congue. Est pellentesque elit ullamcorper dignissim. Nunc vel risus commodo viverra maecenas. Risus quis varius quam quisque id diam. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium nibh. Adipiscing enim eu turpis egestas pretium aenean pharetra.
+
+Nunc sed augue lacus viverra vitae congue eu consequat ac. Sit amet commodo nulla facilisi nullam vehicula ipsum. Magna fermentum iaculis eu non diam phasellus vestibulum lorem. Nibh ipsum consequat nisl vel pretium lectus quam id leo. Viverra vitae congue eu consequat ac felis donec et. Vulputate eu scelerisque felis imperdiet proin fermentum. Maecenas volutpat blandit aliquam etiam. Egestas sed tempus urna et pharetra pharetra massa massa. A lacus vestibulum sed arcu non. Elit duis tristique sollicitudin nibh sit. Fringilla ut morbi tincidunt augue.
+
+Eget nunc lobortis mattis aliquam faucibus purus in massa tempor. Faucibus turpis in eu mi bibendum neque egestas congue. Fermentum odio eu feugiat pretium. Elit duis tristique sollicitudin nibh sit. Urna nec tincidunt praesent semper feugiat nibh sed pulvinar. Diam quam nulla porttitor massa id neque. Non arcu risus quis varius quam. Amet aliquam id diam maecenas ultricies mi. Aliquam vestibulum morbi blandit cursus risus at. Pulvinar mattis nunc sed blandit libero. Viverra aliquet eget sit amet tellus cras adipiscing enim. Platea dictumst quisque sagittis purus sit. Etiam erat velit scelerisque in dictum non consectetur a.
+
+Massa id neque aliquam vestibulum morbi blandit cursus risus at. Urna molestie at elementum eu facilisis sed odio morbi. Ut morbi tincidunt augue interdum velit euismod in pellentesque massa. Tortor at auctor urna nunc id cursus metus aliquam eleifend. Sit amet nisl purus in mollis nunc. Ullamcorper sit amet risus nullam eget felis eget nunc lobortis. Condimentum vitae sapien pellentesque habitant morbi tristique. Amet mauris commodo quis imperdiet massa. Vitae semper quis lectus nulla at volutpat diam ut venenatis. Sed turpis tincidunt id aliquet risus. In vitae turpis massa sed.</string>
+    <string name="hint_nickname">The Name will be visible here</string>
+    <string name="button_text">Done</string>
+</resources>
